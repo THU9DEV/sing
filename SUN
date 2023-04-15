@@ -1,0 +1,120 @@
+local args = {
+    [1] = "ทำไมเธอดูช่างน่ารักจัง",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+ local args = {
+    [1] = "เพราะอะไรที่ทำให้ฉันต้องชอบเธอ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+  local args = {
+    [1] = "รู้อยู่แล้วว่าฉันไม่คู่ควรกับเธอ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+   local args = {
+    [1] = "จะทำอย่างไรให้เธอมาสนใจ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+    local args = {
+    [1] = "แต่แล้ว ฝันก็เป็นจริง",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+     local args = {
+    [1] = "เมื่อเข้าไปใกล้เธอใจของฉันสั่นไม่ไหว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+      local args = {
+    [1] = "ถ้าเธอนั้นโสดอยู่ อยากให้เธอรู้",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+       local args = {
+    [1] = "อยากพูดให้เธอได้ฟังให้รู้ว่า",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+        local args = {
+    [1] = "หยุดรักเธอไม่ได้แล้ว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+         local args = {
+    [1] = "แพ้ความน่ารักของเธอไปอีกแล้ว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+          local args = {
+    [1] = "เขินทุกทีที่เจอหน้าเธอ ให้ใจหมดแล้ว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+           local args = {
+    [1] = "ตกหลุมรักเธอไม่รู้ตัว หยุดรักเธอไม่ทันแล้ว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+            local args = {
+    [1] = "คิดถึงเธอทุกวันจนแทบจะบ้าแล้ว",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+             local args = {
+    [1] = "ไม่รู้ว่าเพราะอะไรถึงเป็นแบบนี้",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+              local args = {
+    [1] = "ฉันไม่เข้าใจ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+ 
+               local args = {
+    [1] = "โปรดมารักฉันสักทีได้ไหม",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
+                local args = {
+    [1] = "ให้ฉันเป็นแฟนเธอ",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+ wait(3)
